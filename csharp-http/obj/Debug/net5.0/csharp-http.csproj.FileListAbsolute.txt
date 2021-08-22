@@ -1,0 +1,16 @@
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.exe
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.deps.json
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.runtimeconfig.json
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.dll
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\ref\csharp-http.dll
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\bin\Debug\net5.0\csharp-http.pdb
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.dll
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\ref\csharp-http.dll
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.pdb
+F:\Desktop\dotNET\C#\8.19\csharp-http\csharp-http\csharp-http\obj\Debug\net5.0\csharp-http.genruntimeconfig.cache
