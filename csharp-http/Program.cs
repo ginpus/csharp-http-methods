@@ -125,6 +125,7 @@ namespace csharp_http
 
             //-------------------------DELETE---------------------------------
 
+<<<<<<< HEAD
             //-------------------------PUT---------------------------------
 
             /*            var putRequest = new PutRequestModel
@@ -155,6 +156,30 @@ namespace csharp_http
                         var response = await httpClient.SendAsync(request);
 
                         Console.WriteLine(await response.Content.ReadAsStringAsync());*/
+=======
+            Console.WriteLine(await response.Content.ReadAsStringAsync());
+            
+            //SUPAPRASTINIMAS:
+            
+ /*           var response = await client.PostAsJsonAsync("api/products", post);
+            Console.WriteLine(response.EnsureSuccessStatusCode()); */
+            
+            //-------------------------PUT---------------------------------
+/*             static async Task<Post> UpdateProductAsync(Post post)
+{
+    var response = await client.PutAsJsonAsync(
+        $"api/products/{post.Id}", post);
+    response.EnsureSuccessStatusCode();
+
+    // Deserialize the updated product from the response body.
+    post = await response.Content.ReadAsAsync<Post>();
+    return post;
+}*/
+            
+            //-------------------------DELETE---------------------------------
+            //https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+            
+>>>>>>> a0e82b8bd9ec8f7939fa7d3fe19ec5b3675cae66
         }
     }
 
@@ -192,6 +217,7 @@ namespace csharp_http
 
         public string Body { get; set; }
     }
+<<<<<<< HEAD
 
     internal class PutRequestModel
     {
@@ -213,3 +239,6 @@ namespace csharp_http
         }
     }
 }
+=======
+}
+>>>>>>> a0e82b8bd9ec8f7939fa7d3fe19ec5b3675cae66
