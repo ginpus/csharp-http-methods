@@ -92,6 +92,27 @@ namespace csharp_http
             //Console.WriteLine(postResponse);
 
             Console.WriteLine(await response.Content.ReadAsStringAsync());
+            
+            //SUPAPRASTINIMAS:
+            
+ /*           var response = await client.PostAsJsonAsync("api/products", post);
+            Console.WriteLine(response.EnsureSuccessStatusCode()); */
+            
+            //-------------------------PUT---------------------------------
+/*             static async Task<Post> UpdateProductAsync(Post post)
+{
+    var response = await client.PutAsJsonAsync(
+        $"api/products/{post.Id}", post);
+    response.EnsureSuccessStatusCode();
+
+    // Deserialize the updated product from the response body.
+    post = await response.Content.ReadAsAsync<Post>();
+    return post;
+}*/
+            
+            //-------------------------DELETE---------------------------------
+            //https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+            
         }
     }
 
